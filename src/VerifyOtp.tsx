@@ -17,7 +17,7 @@ export const VerifyOtp = ({
   length,
   onVerify,
   otpClear = false,
-}: OtpVerifyProps): JSX.Element => {
+}: OtpVerifyProps) => {
   const [pin, setPin] = useState('');
   const elRef = [...Array(length)].map(() => useRef<TextInput>(null));
   const mainRef = useRef<TextInput>(null);
