@@ -1,19 +1,18 @@
 {
   "name": "react-native-verify-otp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "description": "Easy use otp verify",
-  "types": "lib/index.d.ts",
-  "main": "lib/cjs/index.js",
-  "module": "lib/esm/index.js",
+  "types": "lib",
+  "main": "lib/index.js",
   "author": {
     "email": "onlyappasaheb4@gmail.com",
     "name": "Lakade Appasaheb",
     "url": "http://github.com/appasaheb4"
-  },
+  },  
   "license": "MIT",
-  "scripts": {
-    "build": "tsc -p tsconfig.json  & tsc -p tsconfig-cjs.json"
+  "scripts": {  
+    "build": "tsc -p ."
   },
   "peerDependencies": {
     "react": "*",
