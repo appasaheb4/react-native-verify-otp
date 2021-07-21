@@ -1,1 +1,0 @@
-{"version":3,"file":"VerifyOtp.d.ts","sourceRoot":"","sources":["../src/VerifyOtp.tsx"],"names":[],"mappings":"AASA,UAAU,cAAc;IACtB,MAAM,EAAE,MAAM,CAAC;IACf,QAAQ,EAAE,CAAC,GAAG,EAAE,MAAM,EAAE,QAAQ,CAAC,EAAE,MAAM,IAAI,KAAK,IAAI,CAAC;IACvD,QAAQ,CAAC,EAAE,OAAO,CAAC;CACpB;AAED,eAAO,MAAM,SAAS,oCAInB,cAAc,QAuHhB,CAAC"}

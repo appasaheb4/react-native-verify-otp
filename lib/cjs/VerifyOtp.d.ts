@@ -5,4 +5,3 @@ interface OtpVerifyProps {
 }
 export declare const VerifyOtp: ({ length, onVerify, otpClear, }: OtpVerifyProps) => any;
 export {};
-//# sourceMappingURL=VerifyOtp.d.ts.map
