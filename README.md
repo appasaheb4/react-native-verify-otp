@@ -32,6 +32,6 @@ import { VerifyOtp } from 'react-native-verify-otp';
 
 ### Outputs   
 
-<img src="https://github.com/appasaheb4/react-native-verify-otp/blob/main/assets/otp.png">
+<img src="https://github.com/appasaheb4/react-native-verify-otp/blob/master/assets/otp.png">
 
 ### More inforamtion watch youtube channel: https://www.youtube.com/tech-abl
