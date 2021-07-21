@@ -74,8 +74,8 @@ export const VerifyOtp = ({
           flexDirection: 'row',
           height: 48,
           marginHorizontal: '-2%',
-        }}
-        marginVertical="m"
+        }}  
+        marginVertical={20}
       >
         {new Array(length).fill(0).map((i, idx) => (
           <View
