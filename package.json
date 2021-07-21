@@ -1,6 +1,6 @@
 {
   "name": "react-native-verify-otp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "private": false,
   "description": "Easy use otp verify",
   "types": "lib",
@@ -9,9 +9,9 @@
     "email": "onlyappasaheb4@gmail.com",
     "name": "Lakade Appasaheb",
     "url": "http://github.com/appasaheb4"
-  },  
+  },
   "license": "MIT",
-  "scripts": {  
+  "scripts": {
     "build": "tsc -p ."
   },
   "peerDependencies": {
@@ -29,7 +29,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.0.8",
-    "node": "^16.1.0"
+    "node": "^16.1.0"   
   },
   "keywords": [
     "react",
@@ -46,9 +46,5 @@
   "bugs": {
     "url": "https://github.com/appasaheb4/react-native-verify-otp/issues"
   },
-  "homepage": "https://github.com/appasaheb4/react-native-verify-otp#readme",
-  "dependencies": {
-    "react": "^17.0.2",
-    "react-native": "^0.64.2"
-  }
+  "homepage": "https://github.com/appasaheb4/react-native-verify-otp#readme"
 }
