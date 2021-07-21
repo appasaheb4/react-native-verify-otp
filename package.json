@@ -11,7 +11,7 @@
     "url": "http://github.com/appasaheb4"
   },
   "license": "MIT",
-  "scripts": {
+  "scripts": {  
     "build": "tsc -p ."
   },
   "peerDependencies": {
