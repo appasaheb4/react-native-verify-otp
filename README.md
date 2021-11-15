@@ -40,7 +40,7 @@ import { VerifyOtp } from 'react-native-verify-otp';
 ## Sponsors
   - tech abl (https://www.youtube.com/tech-abl)
 
-<a href="https://www.paypal.com/paypalme/appasaheb4/"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" height="40"></a>
+<a href="https://www.paypal.com/paypalme/AppasahebLakade/"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" height="40"></a>
 
 ## How To Contribute
 
