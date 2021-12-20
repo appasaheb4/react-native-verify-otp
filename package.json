@@ -1,6 +1,6 @@
 {
   "name": "react-native-verify-otp",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "private": false,  
   "description": "Easy use otp verify",
   "types": "lib",

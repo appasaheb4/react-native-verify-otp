@@ -50,4 +50,19 @@ import { VerifyOtp } from 'react-native-verify-otp';
 * Run the test suites to make sure it's not breaking anything `$ npm test`
 * Submit a pull request under `develop` branch
 
+## Author
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/appasaheb4.png?s=100" width="100">
+    </td>
+    <td>
+      Wojciech Maj<br />
+      <a href="mailto:onlyappasaheb4@gmail.com">onlyappasaheb4@gmail.com</a><br />
+      <a href="https://youtube.com/tech-abl">https://youtube.com/tech-abl</a>
+    </td>
+  </tr>
+</table>
+
 
