@@ -58,7 +58,7 @@ import { VerifyOtp } from 'react-native-verify-otp';
       <img src="https://github.com/appasaheb4.png?s=100" width="100">
     </td>
     <td>
-      Wojciech Maj<br />
+      Appasaheb Lakade<br />
       <a href="mailto:onlyappasaheb4@gmail.com">onlyappasaheb4@gmail.com</a><br />
       <a href="https://youtube.com/tech-abl">https://youtube.com/tech-abl</a>
     </td>
