@@ -13,7 +13,7 @@ yarn add react-native-verify-otp
 # Usage
 
 ```jsx
-import { VerifyOtp } from 'react-native-verify-otp';
+import {VerifyOtp} from 'react-native-verify-otp';
 
 <VerifyOtp
   length={4}
@@ -30,25 +30,11 @@ import { VerifyOtp } from 'react-native-verify-otp';
 />;
 ```
 
-# Outputs   
+# Outputs
 
 <img src="https://github.com/appasaheb4/react-native-verify-otp/blob/master/assets/otp.png">
 
-
-# Development
-
-## Sponsors
-  - tech abl (https://www.youtube.com/tech-abl)
-
 <a href="https://www.paypal.com/paypalme/AppasahebLakade/"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" height="40"></a>
-
-## How To Contribute
-
-* Fork and clone this repository
-* Make some changes as required
-* Write unit test to showcase its functionality
-* Run the test suites to make sure it's not breaking anything `$ npm test`
-* Submit a pull request under `develop` branch
 
 ## Author
 
@@ -65,4 +51,31 @@ import { VerifyOtp } from 'react-native-verify-otp';
   </tr>
 </table>
 
+## Contributes / Support
 
+1.  Subscribe channel 😊 : https://www.youtube.com/tech-abl
+
+2.  Submit your pr for idea / issue / feature
+
+### How To Contribute
+
+- Fork and clone this repository
+- Make some changes as required
+- Write unit test to showcase its functionality
+- Run the test suites to make sure it's not breaking anything `$ npm test`
+- Submit a pull request under `develop` branch
+
+## Donate
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/appasaheb4/react-native-verify-otp/blob/master/assets/upiQrCode.jpeg" width="100">
+    </td>
+    <td>
+      <a href="https://www.paypal.com/paypalme/AppasahebLakade/">Paypal</a><br />
+    </td>
+  </tr>
+</table>
+
+😊 ALWAYS WELCOME 😊
