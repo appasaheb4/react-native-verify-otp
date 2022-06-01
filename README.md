@@ -34,8 +34,6 @@ import {VerifyOtp} from 'react-native-verify-otp';
 
 <img src="https://github.com/appasaheb4/react-native-verify-otp/blob/master/assets/otp.png">
 
-<a href="https://www.paypal.com/paypalme/AppasahebLakade/"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" height="40"></a>
-
 ## Author
 
 <table>
@@ -56,14 +54,12 @@ import {VerifyOtp} from 'react-native-verify-otp';
 1.  Subscribe channel 😊 : https://www.youtube.com/tech-abl
 
 2.  Submit your pr for idea / issue / feature
-
-### How To Contribute
-
-- Fork and clone this repository
-- Make some changes as required
-- Write unit test to showcase its functionality
-- Run the test suites to make sure it's not breaking anything `$ npm test`
-- Submit a pull request under `develop` branch
+    ### How To Contribute
+        - Fork and clone this repository
+        - Make some changes as required
+        - Write unit test to showcase its functionality
+        - Run the test suites to make sure it's not breaking anything `$ npm test`
+        - Submit a pull request under `dev` branch
 
 ## Donate
 
@@ -73,7 +69,7 @@ import {VerifyOtp} from 'react-native-verify-otp';
       <img src="https://github.com/appasaheb4/react-native-verify-otp/blob/master/assets/upiQrCode.jpeg" width="100">
     </td>
     <td>
-      <a href="https://www.paypal.com/paypalme/AppasahebLakade/">Paypal</a><br />
+      <a href="https://www.paypal.com/paypalme/AppasahebLakade/">or Paypal</a><br />
     </td>
   </tr>
 </table>
